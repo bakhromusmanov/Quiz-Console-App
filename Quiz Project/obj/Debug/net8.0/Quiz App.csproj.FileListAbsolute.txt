@@ -1,0 +1,14 @@
+D:\VS Studio Projects\Quiz Project\Quiz Project\bin\Debug\net8.0\Quiz App.exe
+D:\VS Studio Projects\Quiz Project\Quiz Project\bin\Debug\net8.0\Quiz App.deps.json
+D:\VS Studio Projects\Quiz Project\Quiz Project\bin\Debug\net8.0\Quiz App.runtimeconfig.json
+D:\VS Studio Projects\Quiz Project\Quiz Project\bin\Debug\net8.0\Quiz App.dll
+D:\VS Studio Projects\Quiz Project\Quiz Project\bin\Debug\net8.0\Quiz App.pdb
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.AssemblyInfoInputs.cache
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.AssemblyInfo.cs
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.csproj.CoreCompileInputs.cache
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.dll
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\refint\Quiz App.dll
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.pdb
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\Quiz App.genruntimeconfig.cache
+D:\VS Studio Projects\Quiz Project\Quiz Project\obj\Debug\net8.0\ref\Quiz App.dll
